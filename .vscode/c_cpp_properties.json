@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/per/Workspaces/citolibra_ws/devel/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/anydrive_sdk/anydrive/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/controller/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/ethercat_device_configurator/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/ethercat_sdk_master/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/message_logger/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/omav_hovery/omav_hovery_demo/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/omav_hovery/omav_hovery_interface/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/omav_hovery/omav_hovery_ros/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/robot_localization/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/rotors_simulator/rotors_control/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/simulation/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/soem_interface/soem_interface/include/**",
+        "/home/per/Workspaces/citolibra_ws/src/soem_interface/soem/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
